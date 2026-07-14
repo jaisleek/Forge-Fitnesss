@@ -1,0 +1,6 @@
+{
+  "name": "Forge Fitness",
+  "description": "A daily gym fitness app to track routines and progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
